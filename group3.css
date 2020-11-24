@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    font-family: arial;
+}
+#shelfone{
+    background-color: #ffd800;
+    height: 516px;
+    width: 310px;
+    margin-left: 100px;
+    margin-top: 70px;
+}img{
+    height: 400px;
+    width: 330px;
+    margin-left: 40px;
+    margin-top: 32px;
+    margin-bottom: -4px;
+}
+
+#shelf{
+    background-color: white;
+    height: 40px;
+    width: 310px;
+    margin-left: 40px;
+    border-left: 10px solid red;
+    padding: 5px;
+}
+.container{
+    display: flex;
+}
+b{
+    margin-left: 15px;
+    color: rgb(68, 66, 66);
+    word-spacing: 0.5em;
+}
+small{
+    margin-left: 15px;
+    color: rgb(95, 89, 89);
+    font-weight: bolder;
+}
